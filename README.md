@@ -1,1 +1,1 @@
-# interface
+Diplomatica - Building a World of Political Scientists
